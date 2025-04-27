@@ -55,6 +55,7 @@ namespace MemberLoginPage
                 lblSuccess.Text = "Registration successful! Please login.";
                 lblMessage.Text = "";
                 ClearForm();
+                Response.Redirect("MemberLogin.aspx");
             }
             else
             {
