@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Members>
+  <Member>
+    <Username>testuser</Username>
+    <Password>5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8</Password>
+    <!-- SHA-256 hash of "password" -->
+    <Salt>abc123</Salt>
+  </Member>
+</Members>
